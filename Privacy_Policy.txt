@@ -1,0 +1,9 @@
+For the purposes of a university project from the Vienna University of Economics (WU Vienna), in the course ‘5597 Data Processing 2: Scalable Data Processing, Legal & Ethical Foundations of Data Science’, we will collect information about the content of the Subreddit r/wallstreetbets, to practice dealing with the scalable handling of big data.
+
+Only information regarding the content of the post and the date will be collected.
+
+The content of the posts will be analyzed via Machine Learning techniques and used to predict stock index scores using the sentiment analysis tool Vader.
+
+The data will be stored on the students´ personal computers and the servers hosted by the WU Vienna, as the results will be submitted to the university.
+
+The project is for educational purposes only. Therefore, the collected data will not be used for business purposes.
